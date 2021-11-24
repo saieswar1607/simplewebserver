@@ -62,8 +62,10 @@ print("my webserver is running...")
 httpd.serve_forever()
 
 ## OUTPUT:
+
 ### Server Side Output
-![Server Side Output](./images/serverside.png)
+![Server Side Output](./images/Serverside.png)
+
 ### Client Side Output
 ![Client Side Output](./images/clientside.png)
 
